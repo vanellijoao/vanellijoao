@@ -2,9 +2,8 @@
 
 ### &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Studying web development at [Trybe](https://www.betrybe.com/) \
+&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Studying web development at [Trybe](https://www.betrybe.com/). \
 &nbsp;&nbsp;&nbsp;:chart_with_downwards_trend: &nbsp;Background in Project Management.\
-&nbsp;&nbsp;&nbsp;:bike: &nbsp;Going places with my bicycle
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vanellijoao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
