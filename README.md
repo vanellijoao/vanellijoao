@@ -2,7 +2,7 @@
 
 ### &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:office: &nbsp;Mobile Front-end Developer at [Nodis](https://www.nodis.com.br/)\
+&nbsp;&nbsp;&nbsp;:office: &nbsp;Fullstack Developer at [Crewhu](https://www.crewhu.com/)\
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Graduated as Web Developer at [Trybe](https://www.betrybe.com/)\
 &nbsp;&nbsp;&nbsp;:chart_with_downwards_trend: &nbsp;Background in IT Project Management and Product Ideation
 
